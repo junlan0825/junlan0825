@@ -25,12 +25,12 @@ I am actively seeking opportunities in:
 ## 🔬 Selected Projects
 
 ### 🧠 AI / ML
-- LLM experiments and coursework (UPenn MCIT)
+- LLM experiments and coursework 
 - Machine learning pipelines and model evaluation
 - NLP and embedding-based systems
 
 ### 💻 Systems & Programming
-- Operating systems projects (C, Penn coursework)
+- Operating systems projects 
 - Networked systems and low-level programming
 - Performance-focused system design
 
